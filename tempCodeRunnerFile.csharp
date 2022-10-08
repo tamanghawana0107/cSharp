@@ -1,0 +1,14 @@
+//First code
+using System;
+namespace cSharp
+{
+    class First
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello everyone!");
+            Console.WriteLine("First Day of learning C#!");
+            Console.WriteLine("Feeling Excited");
+        }
+    }
+}
