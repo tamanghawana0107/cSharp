@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <StartupObject>cSharp.firstDay</StartupObject>
     <StartupObject>cSharp.numerical</StartupObject>
+    <StartupObject>cSharp.Method</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
