@@ -6,6 +6,7 @@
     <StartupObject>cSharp.firstDay</StartupObject>
     <StartupObject>cSharp.numerical</StartupObject>
     <StartupObject>cSharp.Method</StartupObject>
+    <StartupObject>cSharp.variables</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
