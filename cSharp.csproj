@@ -7,6 +7,7 @@
     <StartupObject>cSharp.numerical</StartupObject>
     <StartupObject>cSharp.Method</StartupObject>
     <StartupObject>cSharp.variables</StartupObject>
+    <StartupObject>cSharp.constant</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
