@@ -9,6 +9,7 @@
     <StartupObject>cSharp.variables</StartupObject>
     <StartupObject>cSharp.constant</StartupObject>
     <StartupObject>cSharp.displayVariables</StartupObject>
+    <StartupObject>cSharp.multipleVariable</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
