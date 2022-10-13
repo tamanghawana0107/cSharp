@@ -12,7 +12,6 @@
     <StartupObject>cSharp.multipleVariable</StartupObject>
     <StartupObject>cSharp.Implicit</StartupObject>
     <StartupObject>cSharp.Explicit</StartupObject>
-    <StartupObject>cSharp.typeConversion</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
