@@ -14,7 +14,7 @@
     <StartupObject>cSharp.Explicit</StartupObject>
     <StartupObject>cSharp.typeConversion</StartupObject>
     <StartupObject>cSharp.userInput1</StartupObject>
-    <StartupObject>csharp.userInput2</StartupObject>
+    <StartupObject>cSharp.userInput2</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
