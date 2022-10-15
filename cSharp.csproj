@@ -13,6 +13,7 @@
     <StartupObject>cSharp.Implicit</StartupObject>
     <StartupObject>cSharp.Explicit</StartupObject>
     <StartupObject>cSharp.typeConversion</StartupObject>
+    <StartupObject>cSharp.userInput1</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
