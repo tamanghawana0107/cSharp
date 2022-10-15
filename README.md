@@ -30,8 +30,9 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- Output = Output using "WriteLine"</h4>
   <h4>- Comments = For important lines !</h4>
   <h4>- Variables = For data store and many more !</h4>
-  <h4>- Identifiers = For naming variables under different rules</h4>
-  <h4>- Data Types = Different data types used in C#</h4>
+  <h4>- Identifiers = For naming variables under different rules !</h4>
+  <h4>- Data Types = Different data types used in C#....</h4>
+  <h4>- Type Casting = Type casting done in two methods with some built in methods !</h4>
 </BODY>
 </HTML>
 
