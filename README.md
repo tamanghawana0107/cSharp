@@ -33,7 +33,7 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- Identifiers = For naming variables under different rules !</h4>
   <h4>- Data Types = Different data types used in C#....</h4>
   <h4>- Type Casting = Type casting done in two methods with some built in methods !</h4>
-  <h4>- User Input = Learn two methods of data insertion  or data input! </h4>
+  <h4>- User Input = Learnt two methods of data insertion  or data input! </h4>
 </BODY>
 </HTML>
 
