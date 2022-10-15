@@ -15,6 +15,7 @@
     <StartupObject>cSharp.typeConversion</StartupObject>
     <StartupObject>cSharp.userInput1</StartupObject>
     <StartupObject>cSharp.userInput2</StartupObject>
+    <StartupObject>cSharp.personalDetails</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
