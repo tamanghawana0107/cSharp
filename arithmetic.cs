@@ -6,26 +6,35 @@ namespace cSharp
     {
         static void Main(string[] args)
         {
-            int x,y;
+            int x,y,result;
             x = 9;
             y = 3;
             //Using Arithmetic operators
             //Addition Operator
-            Console.WriteLine("Add =",x+y);
+            result = x+y;
+            Console.WriteLine("Add = "+ result);
             //Subtraction Operator
-            Console.WriteLine(x-y);
+            result = x-y;
+            Console.WriteLine("Subtract = "+ result);
             //Multiplication Operator
-            Console.WriteLine(x*y);
+            result = x*y;
+            Console.WriteLine("Multiplication = "+ result);
             //Division Operator
-            Console.WriteLine(x/y);
+            result = x/y;
+            Console.WriteLine("Division = "+ result);
             //Modulus Operator
-            Console.WriteLine(x%y);
+            result = x%y;
+            Console.WriteLine("Modulus = "+ result);
             //Increment Operator
-            Console.WriteLine(x++);
-            Console.WriteLine(y++);
+            result = x++;
+            Console.WriteLine("Increment = "+ result);
+            result = y++;
+            Console.WriteLine("Increment = "+ result);
             //Decrement Operator
-            Console.WriteLine(x--);
-            Console.WriteLine(y--);
+            result = x--;
+            Console.WriteLine("Decrement = "+ result);
+            result = y--;
+            Console.WriteLine("Decrement = "+ result);
             //end of program
         }
     }
