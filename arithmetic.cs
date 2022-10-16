@@ -25,16 +25,6 @@ namespace cSharp
             //Modulus Operator
             result = x%y;
             Console.WriteLine("Modulus = "+ result);
-            //Increment Operator
-            result = x++;
-            Console.WriteLine("Increment = "+ result);
-            result = y++;
-            Console.WriteLine("Increment = "+ result);
-            //Decrement Operator
-            result = x--;
-            Console.WriteLine("Decrement = "+ result);
-            result = y--;
-            Console.WriteLine("Decrement = "+ result);
             //end of program
         }
     }
