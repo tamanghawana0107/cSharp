@@ -19,6 +19,8 @@
     <StartupObject>cSharp.arithmetic</StartupObject>
     <StartupObject>cSharp.unaryy</StartupObject>
     <StartupObject>cSharp.assignment</StartupObject>
+    <StartupObject>cSharp.Relational_operator</StartupObject>
+    <StartupObject>cSharp.Logical_operator</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
