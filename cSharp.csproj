@@ -18,6 +18,7 @@
     <StartupObject>cSharp.personalDetails</StartupObject>
     <StartupObject>cSharp.arithmetic</StartupObject>
     <StartupObject>cSharp.unaryy</StartupObject>
+    <StartupObject>cSharp.assignment</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
