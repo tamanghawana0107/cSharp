@@ -21,6 +21,7 @@
     <StartupObject>cSharp.assignment</StartupObject>
     <StartupObject>cSharp.Relational_operator</StartupObject>
     <StartupObject>cSharp.Logical_operator</StartupObject>
+    <StartupObject>cSharp.BITwise_operator</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
