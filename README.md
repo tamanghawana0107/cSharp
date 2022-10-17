@@ -34,7 +34,8 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- Data Types = Different data types used in C#....</h4>
   <h4>- Type Casting = Type casting done in two methods with some built in methods !</h4>
   <h4>- User Input = Learnt two methods of data insertion  or data input !</h4>
-  <h4>- Operator_day1 = Learnt about Arithmetic operator and Unary operator.....</h4>
+  <h4>- Operator_day1 = Learnt about Arithmetic operator and Unary Operator.....</h4>
+  <h4>- Operator_day2 = Learnt about Assignment, Relational, Logical and Bitwise Operators !</h4>
 </BODY>
 </HTML>
 
