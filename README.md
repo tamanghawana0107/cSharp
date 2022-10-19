@@ -36,6 +36,7 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- User Input = Learnt two methods of data insertion  or data input !</h4>
   <h4>- Operator_day1 = Learnt about Arithmetic operator and Unary Operator.....</h4>
   <h4>- Operator_day2 = Learnt about Assignment, Relational, Logical and Bitwise Operators !</h4>
+  <h4>- Math Methof = Learnt about different methods to perform mathematical problems !</h4>
 </BODY>
 </HTML>
 
