@@ -12,7 +12,8 @@ namespace cSharp
             string name1 = firstName  + lastName;
             Console.WriteLine(name1);
             //using concatination method
-            string name2
+            string name2 = string.Concat(firstName,lastName);
+            Console.WriteLine(name2);
         }
     }
 }
