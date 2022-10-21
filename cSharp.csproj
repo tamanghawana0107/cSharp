@@ -24,6 +24,7 @@
     <StartupObject>cSharp.BITwise_operator</StartupObject>
     <StartupObject>cSharp.math_cSharp</StartupObject>
     <StartupObject>cSharp.cSharp_strings</StartupObject>
+    <StartupObject>cSharp.conca</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
