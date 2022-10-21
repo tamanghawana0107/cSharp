@@ -26,6 +26,7 @@
     <StartupObject>cSharp.cSharp_strings</StartupObject>
     <StartupObject>cSharp.conca</StartupObject>
     <StartupObject>cSharp.interpolation</StartupObject>
+    <StartupObject>cSharp.Access</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
