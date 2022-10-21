@@ -12,6 +12,10 @@ namespace cSharp
             Console.WriteLine(charPos);  //position of character
             string lastName = college.Substring(charPos);
             Console.WriteLine(lastName);
+
+            //Special Character
+            string word  = "We are so called \"Vikings\" from the north .";
+            Console.WriteLine(word);
         }
     }
 }
