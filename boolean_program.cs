@@ -10,7 +10,11 @@ namespace cSharp
             bool isPumpkinTasty = false;
             Console.WriteLine(isCodingFun);
             Console.WriteLine(isPumpkinTasty);
-            
+
+            // another program boolean related
+            int x = 13;
+            int y = 9;
+            Console.WriteLine(x>y);
         }
-    }
+    } 
 }
