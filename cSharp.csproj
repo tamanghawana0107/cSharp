@@ -28,6 +28,7 @@
     <StartupObject>cSharp.interpolation</StartupObject>
     <StartupObject>cSharp.Access</StartupObject>
     <StartupObject>cSharp.boolean_program</StartupObject>
+    <StartupObject>cSharp.statement</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
