@@ -31,6 +31,7 @@
     <StartupObject>cSharp.statement</StartupObject>
     <StartupObject>cSharp.switchCaseProgram</StartupObject>
     <StartupObject>cSharp.loop_program</StartupObject>
+    <StartupObject>cSharp.shortHand</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
