@@ -41,6 +41,8 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- Boolean Method = Learnt about the bool data type and the values it takes !</h4>
   <h4>- If_Else Method = Learnt about the conditional, if...else, else..if, Short Hand if...else statements used in C# !</h4>
   <h4>- Switch_Case Method = Learnt about the using mechanism of switch case method in C# !</h4>
+  <h4>- While Loop Method = Learnt about the while loop mechanism !</h4>
+  <h4>- For Loop Method = Learnt about the for loop method.....</h4>
 </BODY>
 </HTML>
 
