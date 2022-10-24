@@ -33,6 +33,7 @@
     <StartupObject>cSharp.loop_program</StartupObject>
     <StartupObject>cSharp.shortHand</StartupObject>
     <StartupObject>cSharp.program_forLoop</StartupObject>
+    <StartupObject>cSharp.break_continue_statement</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
