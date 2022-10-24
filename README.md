@@ -43,6 +43,7 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- Switch_Case Method = Learnt about the using mechanism of switch case method in C# !</h4>
   <h4>- While Loop Method = Learnt about the while loop mechanism !</h4>
   <h4>- For Loop Method = Learnt about the for loop method.....</h4>
+  <h4>- Break_Continue Statement = Learnt about the usage of break and Continue statements in C# !</h4> 
 </BODY>
 </HTML>
 
