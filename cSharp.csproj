@@ -36,6 +36,7 @@
     <StartupObject>cSharp.break_continue_statement</StartupObject>
     <StartupObject>cSharp.array_program</StartupObject>
     <StartupObject>cSharp.forLoop_array</StartupObject>
+    <StartupObject>cSharp.foreach_program</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
