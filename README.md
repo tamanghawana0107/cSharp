@@ -44,7 +44,7 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- While Loop Method = Learnt about the while loop mechanism !</h4>
   <h4>- For Loop Method = Learnt about the for loop method.....</h4>
   <h4>- Break_Continue Statement = Learnt about the usage of break and continue statements in C# !</h4> 
-  <h4>- Array in C#= Learnt about array in C#, System.Linq, for loop , foreach in c#.....</h4>
+  <h4>- Array in C#= Learnt about array in C#, System.Linq, for loop , foreach in C#.....</h4>
 
 </BODY>
 </HTML>
