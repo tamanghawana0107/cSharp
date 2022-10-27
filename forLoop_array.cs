@@ -10,7 +10,7 @@ namespace cSharp{
             int i =0;
             for(i=0;i<3;i++)
             {
-                Console.WriteLine("Enter your name::");
+                Console.WriteLine("Enter the name of " + (i+1) + " student ::");
                 name[i] = Console.ReadLine();
             }
             Console.WriteLine("The output is below :");
