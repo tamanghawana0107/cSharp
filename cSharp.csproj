@@ -37,6 +37,7 @@
     <StartupObject>cSharp.array_program</StartupObject>
     <StartupObject>cSharp.forLoop_array</StartupObject>
     <StartupObject>cSharp.foreach_program</StartupObject>
+    <StartupObject>cSharp.hangman_game</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
