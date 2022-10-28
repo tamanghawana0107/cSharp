@@ -39,6 +39,7 @@
     <StartupObject>cSharp.foreach_program</StartupObject>
     <StartupObject>cSharp.hangman_game</StartupObject>
     <StartupObject>cSharp.sorting_program</StartupObject>
+    <StartupObject>cSharp.Sort</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
