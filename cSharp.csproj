@@ -42,6 +42,7 @@
     <StartupObject>cSharp.Sort</StartupObject>
     <StartupObject>cSharp.method_program</StartupObject>
     <StartupObject>cSharp.method2</StartupObject>
+    <StartupObject>cSharp.method3</StartupObject>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
