@@ -6,10 +6,12 @@ namespace cSharp
     {
         static void MyMethod()
         {
-            Console.WriteLine("I just got executed");
+            Console.WriteLine("Romiya Dangol Studies in Kist College");
         }
         static void Main(string[] args)
         {
+            MyMethod();
+            MyMethod();
             MyMethod();
         }
     }
