@@ -11,6 +11,7 @@ namespace cSharp
         static void Main(string[] args)
         {
             MyMethod("Romiya",16);
+            MyMethod("Sama",20);
         }
     }
 }
