@@ -45,8 +45,13 @@ This README file is about what I learnt about the programming language C# in a s
   <h4>- For Loop Method = Learnt about the for loop method.....</h4>
   <h4>- Break_Continue Statement = Learnt about the usage of break and continue statements in C# !</h4> 
   <h4>- Array in C# = Learnt about array in C#, System.Linq, for loop , foreach method , sorting in C# !</h4>
+<<<<<<< HEAD
   <h4>- Method1 = Learnt about the method mechanism in C# !</h4>
   <h4>- Method2 = Learnt about the parameter and argument in C#....</h4>
+=======
+  <h4>- Method = Learnt about the method mechanism in C#....</h4>
+  <h4>- Exercise = Done some of the exercises related to C# in https://www.w3schools.com/cs/index.php </h4>
+>>>>>>> fe4505da047a00a7df9e149e56629aeb0ff24501
 </BODY>
 </HTML>
 
